@@ -121,7 +121,7 @@
     position: absolute;
     height: 16px;
     width: 16px;
-    background-color: #9007df;
+    background-color: red;
     border-radius: 0 50% 50% 50%;
     bottom: 48px;
     transform: rotate(45deg);
